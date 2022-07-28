@@ -49,3 +49,15 @@
 .bold{
     font-weight: 700;
 }
+.search{
+    text-align: center;
+    padding: 1rem;
+}
+input{
+    padding: .7rem 1.5rem;
+    border-radius: 25px;
+    font-size: 1rem;
+    border: none;
+    /* border: 1px solid rgba(255, 255, 255, 0.8); */
+    /* background-color: rgba(255, 255, 255, 0.1); */
+}
